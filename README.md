@@ -20,7 +20,8 @@ A focused Dart & C++ developer on a mission — building apps, crafting clean co
 ### 🛡️ [User Profile Validator & Secure Register](https://github.com/HamzaDev391/user-profile-validator)
 > A Dart CLI app that validates user inputs (CNIC, email, password, etc.) using functions, maps, and lists. 
 
-### 💼 Expense Tracker – C++ OOP Project
+### 💼 [cpp-expense-tracker](https://github.com/HamzaDev391/cpp-expense-tracker)
+
 > A console-based expense tracking system built using Object-Oriented Programming in C++, integrating DSA for data handling.
 
 ### 🎲 Digital Dice Roller – DLD Final Project
