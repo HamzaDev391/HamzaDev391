@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Hamza%20Sabir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=200&section=header&text=Hamza%20Sabir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES+Peshawar;Flutter+Development+Intern+%40+CEMS;Building+scalable%2C+SaaS-ready+mobile+apps;Aspiring+MS+student+%E2%80%94+Eastern+Europe+bound" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES+Peshawar;Flutter+Development+Intern+%40+CEMS;Building+scalable%2C+SaaS-ready+mobile+apps;Aspiring+MS+student+%E2%80%94+building+toward+grad+school" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,10 +20,10 @@
 
 I'm a 4th-semester Computer Science student at **FAST-NUCES, Peshawar**, currently in my second summer as a **Flutter Development Intern at CEMS** (Creative Engineering and Management Sciences). My focus is mobile development with Flutter/Dart, backed by a growing full-stack skill set spanning PHP, Supabase/PostgreSQL, and FastAPI.
 
-I care about writing code that's built to scale — clean architecture, maintainable structure, and products designed with a SaaS mindset from day one. Long term, I'm working toward an MS abroad and a career based in Eastern Europe.
+I care about writing code that's built to scale — clean architecture, maintainable structure, and products designed with a SaaS mindset from day one. Long term, I'm working toward an MS abroad.
 
 ```dart
-class HamzaSabir {
+class Hamzoo {
   final String role = "CS Student & Flutter Developer";
   final String basedAt = "FAST-NUCES, Peshawar 🇵🇰";
   final List<String> currentlyBuilding = [
@@ -31,7 +31,7 @@ class HamzaSabir {
     "Poultry Ledger — inventory system",
     "Terminal-themed developer portfolio",
   ];
-  final String goal = "MS abroad → career in Eastern Europe";
+  final String goal = "MS abroad";
 
   void focus() => print("Scalable, production-quality mobile apps.");
 }
@@ -46,11 +46,13 @@ class HamzaSabir {
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 
 **Frameworks & Tools**
 <br/>
@@ -72,8 +74,16 @@ class HamzaSabir {
 - 🔭 Interning as a **Flutter Developer at CEMS** (June – August 2026)
 - 🌱 Deepening my **Flutter/Dart** foundations — widgets, state management, networking, and architecture
 - 🏗️ Building **LiftHub**, a gym-management app on a Flutter + PHP/MySQL stack (migrating toward Supabase + FastAPI)
-- 🎯 Preparing for an **MS application** with Eastern Europe as the target destination
+- 🎯 Preparing for an **MS application** for grad school abroad
 - ♟️ Off-screen: chess, ancient war epics, and contemplative international cinema
+
+<br/>
+
+## Co-curricular Activities
+
+- 🧑‍💻 Active member, **GDG On Campus (GDGoC) FAST Peshawar**
+- 🎤 Attended **DevFest** — December 2025
+- 🔐 Attended **Cyber Fest** — February 2026
 
 <br/>
 
@@ -98,7 +108,7 @@ class HamzaSabir {
 |---|---|---|
 | **LiftHub** | Gym management app — routines, session logging, progress tracking | Flutter, PHP, MySQL |
 | **Poultry Ledger** | Console-based ledger system for the family poultry farm | Dart |
-| **Expense Tracker** | Personal finance tracking app | Flutter |
+| **Expense Tracker** | Personal finance tracking app | C++, SFML |
 | **Dev Portfolio** | Terminal (Ubuntu GNOME) themed personal site | React, TypeScript, Tailwind |
 
 <br/>
