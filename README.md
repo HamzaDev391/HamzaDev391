@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=200&section=header&text=Hamza%20Sabir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=200&section=header&text=Hamza%20Sabir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES+Peshawar;Flutter+Development+Intern+%40+CEMS;Building+scalable%2C+SaaS-ready+mobile+apps;Aspiring+MS+student+%E2%80%94+building+toward+grad+school" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+Developer;CS+Student+%40+FAST-NUCES+Peshawar;Flutter+Development+Intern+%40+CEMS;Building+production-ready+mobile+applications;Aspiring+MS+Student" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -14,109 +14,116 @@
 
 </div>
 
-<br/>
+---
 
-## About Me
+# 👋 About Me
 
-I'm a 4th-semester Computer Science student at **FAST-NUCES, Peshawar**, currently in my second summer as a **Flutter Development Intern at CEMS** (Creative Engineering and Management Sciences). My focus is mobile development with Flutter/Dart, backed by a growing full-stack skill set spanning PHP, Supabase/PostgreSQL, and FastAPI.
+I'm a **4th-semester Computer Science student** at **FAST-NUCES, Peshawar**, currently working as a **Flutter Development Intern at CEMS (Creative Engineering & Management Sciences)**.
 
-I care about writing code that's built to scale — clean architecture, maintainable structure, and products designed with a SaaS mindset from day one. Long term, I'm working toward an MS abroad.
+My primary focus is **Flutter development**, with growing experience in backend technologies including **PHP, MySQL, Supabase, PostgreSQL, and FastAPI**. I enjoy designing applications with clean architecture, maintainable code, and long-term scalability in mind.
 
-```dart
-class Hamzoo {
-  final String role = "CS Student & Flutter Developer";
-  final String basedAt = "FAST-NUCES, Peshawar 🇵🇰";
-  final List<String> currentlyBuilding = [
-    "LiftHub — Flutter fitness app",
-    "Poultry Ledger — inventory system",
-    "Terminal-themed developer portfolio",
-  ];
-  final String goal = "MS abroad";
+My long-term goal is to pursue an **MS abroad** while continuing to build production-quality software and contribute to impactful projects.
 
-  void focus() => print("Scalable, production-quality mobile apps.");
-}
-```
+## 🚀 Quick Facts
 
-<br/>
+| | |
+|---|---|
+| 🎓 Education | BS Computer Science — FAST-NUCES Peshawar |
+| 💼 Current Role | Flutter Development Intern @ CEMS |
+| 📱 Primary Stack | Flutter • Dart • PHP • MySQL |
+| 🌱 Currently Learning | FastAPI • Supabase • React • TypeScript |
+| 🏗️ Current Project | LiftHub |
+| 🐧 Operating System | Ubuntu Linux |
+| 🎯 Goal | MS Abroad |
 
-## Tech Stack
+---
 
-<div align="left">
+# 💻 Tech Stack
 
-**Languages**
-<br/>
+### Languages
+
+<p>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-**Frameworks & Tools**
-<br/>
+### Frameworks & Tools
+
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</p>
 
-</div>
+### Currently Exploring
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
-## Currently
+---
 
-- 🔭 Interning as a **Flutter Developer at CEMS** (June – August 2026)
-- 🌱 Deepening my **Flutter/Dart** foundations — widgets, state management, networking, and architecture
-- 🏗️ Building **LiftHub**, a gym-management app on a Flutter + PHP/MySQL stack (migrating toward Supabase + FastAPI)
-- 🎯 Preparing for an **MS application** for grad school abroad
-- ♟️ Off-screen: chess, ancient war epics, and contemplative international cinema
+# 🌱 Currently
 
-<br/>
+- 🔭 Flutter Development Intern at **CEMS** (June–August 2026)
+- 📱 Building **LiftHub**, a Flutter-based fitness platform
+- 🏗️ Migrating projects toward **Supabase + FastAPI**
+- 📚 Strengthening Flutter architecture and backend development skills
+- 🎯 Preparing for graduate studies (MS abroad)
+- ♟️ Outside programming: Chess, history, and international cinema
 
-## Co-curricular Activities
+---
 
-- 🧑‍💻 Active member, **GDG On Campus (GDGoC) FAST Peshawar**
-- 🎤 Attended **DevFest** — December 2025
-- 🔐 Attended **Cyber Fest** — February 2026
+# 🤝 Co-curricular Activities
 
-<br/>
+- 🧑‍💻 Active Member — GDG On Campus (GDGoC) FAST Peshawar
+- 🎤 DevFest 2025 Attendee
+- 🔐 Cyber Fest 2026 Attendee
 
-## GitHub Stats
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaDev391&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev391&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaDev391&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev391&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDev391&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38BDF8&line=38BDF8&point=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDev391&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## Featured Projects
+# ⭐ Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| **LiftHub** | Gym management app — routines, session logging, progress tracking | Flutter, PHP, MySQL |
-| **Poultry Ledger** | Console-based ledger system for the family poultry farm | Dart |
-| **Expense Tracker** | Personal finance tracking app | C++, SFML |
-| **Dev Portfolio** | Terminal (Ubuntu GNOME) themed personal site | React, TypeScript, Tailwind |
+|----------|-------------|-------|
+| **[LiftHub](https://github.com/HamzaDev391/LiftHub)** | Gym management platform with workout tracking and progress monitoring | Flutter, PHP, MySQL |
+| **[Poultry Ledger](https://github.com/HamzaDev391/poultry-ledger-system)** | Inventory and ledger management system for a family poultry business | Dart |
+| **[Expense Tracker](https://github.com/HamzaDev391/cpp-expense-tracker)** | Desktop expense tracking application | C++, SFML |
+| **Developer Portfolio** *(Coming Soon)* | Ubuntu Terminal-inspired personal portfolio | React, TypeScript, Tailwind |
 
-<br/>
+---
 
 <div align="center">
 
-*Thanks for stopping by — always open to connecting on interesting projects.*
+### Always learning. Always building.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer"/>
 
 </div>
