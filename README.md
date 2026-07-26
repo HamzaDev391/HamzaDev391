@@ -1,59 +1,112 @@
-## Hi there 👋  
-# I'm Muhammad Hamza
+<div align="center">
 
-🎯 Dart & Flutter Dev | OOP in C++ | Future Freelancer & Builder  
-🛠️ Turning knowledge into real apps. Building the future, step-by-step.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Hamza%20Sabir&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+FAST-NUCES+Peshawar;Flutter+Development+Intern+%40+CEMS;Building+scalable%2C+SaaS-ready+mobile+apps;Aspiring+MS+student+%E2%80%94+Eastern+Europe+bound" alt="Typing SVG" />
+</a>
 
-## 💻 Tech Stack Snapshot
+<br/>
 
-- 🔷 **Dart:** CLI Projects, RegEx, Validation, Null Safety, Async, File I/O  
-- 📱 **Flutter:** UI Widgets, Navigation, State Management (up to Day 6)  
-- 🧠 **C++:** OOP, DSA, File Handling, CLI Apps  
-- 🔧 **Git & GitHub:** Clean Commits, Version Control, Branching  
-- 🔐 **Core Concepts:** User Input Validation, UX-focused Layouts, Clean Logic  
-- 🔥 **Firebase & Supabase:** Coming Soon
+<a href="https://www.linkedin.com/in/hamza-dev-3a4960390/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamza.dev391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/HamzaDev391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+</div>
 
-## 🚀 Featured Projects
+<br/>
 
-### 🧮 [BMI Calculator (Flutter)](https://github.com/HamzaDev391/flutter-bmi-calculator)
-> A multi-screen BMI calculator with login, weight/height unit selection, and dynamic result styling. Built using Dart and Flutter with proper UI/UX foundations.
+## About Me
 
-### 🕌 [Prayer(Salah) Tracker CLI (Dart)](https://github.com/HamzaDev391/namaz_tracker_cli)
-> CLI app to track your Salah. Multi-user login, file handling, filter by date, and daily logs – all built with pure Dart.
+I'm a 4th-semester Computer Science student at **FAST-NUCES, Peshawar**, currently in my second summer as a **Flutter Development Intern at CEMS** (Creative Engineering and Management Sciences). My focus is mobile development with Flutter/Dart, backed by a growing full-stack skill set spanning PHP, Supabase/PostgreSQL, and FastAPI.
 
-### 🔐 [User Profile Validator (Dart)](https://github.com/HamzaDev391/user-profile-validator)
-> CNIC, email, password, and username validator using Dart RegEx and input handling.
+I care about writing code that's built to scale — clean architecture, maintainable structure, and products designed with a SaaS mindset from day one. Long term, I'm working toward an MS abroad and a career based in Eastern Europe.
 
-### 💰 [Expense Tracker (C++)](https://github.com/HamzaDev391/cpp-expense-tracker)
-> Console-based budget tracker using OOP and DSA. Categorizes, stores, and displays user expenses in clean architecture.
+```dart
+class HamzaSabir {
+  final String role = "CS Student & Flutter Developer";
+  final String basedAt = "FAST-NUCES, Peshawar 🇵🇰";
+  final List<String> currentlyBuilding = [
+    "LiftHub — Flutter fitness app",
+    "Poultry Ledger — inventory system",
+    "Terminal-themed developer portfolio",
+  ];
+  final String goal = "MS abroad → career in Eastern Europe";
 
-### 🎲 Digital Dice Roller – DLD Final Project  
-> Hardware dice game using only JK flip-flops, ICs, and LEDs. Logic design without microcontrollers. Pure digital engineering.
+  void focus() => print("Scalable, production-quality mobile apps.");
+}
+```
 
----
+<br/>
 
-## 🎯 Freelancing Vision (2025+)
+## Tech Stack
 
-Preparing services for Fiverr & Upwork:
+<div align="left">
 
-- Dart CLI Tools (Calculators, Validators, Trackers)  
-- Flutter UI Projects (Login Systems, Calculators, Forms)  
-- Firebase + Flutter Integration (Upcoming)  
-- Academic C++ Projects
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
----
+**Frameworks & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 
-## 🌐 Let's Connect
+</div>
 
-- 📂 GitHub: [HamzaDev391](https://github.com/HamzaDev391)  
-- 📧 Email: `hamza.dev391@gmail.com`
+<br/>
 
----
+## Currently
 
-> 🧠 I’m not chasing motivation — I’m chasing **discipline**.  
-> 📈 Every repo I build is for one reason: **Ikhlas, Rizq & Responsibility**.  
-> 💼 Freelance-ready. Marriage-ready. Life-ready, InshaAllah.
+- 🔭 Interning as a **Flutter Developer at CEMS** (June – August 2026)
+- 🌱 Deepening my **Flutter/Dart** foundations — widgets, state management, networking, and architecture
+- 🏗️ Building **LiftHub**, a gym-management app on a Flutter + PHP/MySQL stack (migrating toward Supabase + FastAPI)
+- 🎯 Preparing for an **MS application** with Eastern Europe as the target destination
+- ♟️ Off-screen: chess, ancient war epics, and contemplative international cinema
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HamzaDev391&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev391&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=c9d1d9"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDev391&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38BDF8&line=38BDF8&point=ffffff"/>
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **LiftHub** | Gym management app — routines, session logging, progress tracking | Flutter, PHP, MySQL |
+| **Poultry Ledger** | Console-based ledger system for the family poultry farm | Dart |
+| **Expense Tracker** | Personal finance tracking app | Flutter |
+| **Dev Portfolio** | Terminal (Ubuntu GNOME) themed personal site | React, TypeScript, Tailwind |
+
+<br/>
+
+<div align="center">
+
+*Thanks for stopping by — always open to connecting on interesting projects.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
