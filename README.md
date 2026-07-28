@@ -26,7 +26,7 @@
 
 # 👋 Hi, I'm Muhammad Hamza
 
-I'm a **Computer Science undergraduate at FAST-NUCES, Peshawar**, currently working as a **Flutter Development Intern at CEMS (Creative Engineering & Management Sciences).**
+I'm a **Computer Science undergraduate at FAST-NUCES, Peshawar**, currently working as a **Flutter Development Intern at CEMS (Creative Engineering & Management Sciences)** — June–August 2025, and again June–August 2026 (ongoing).
 
 I enjoy building **clean, scalable, and production-ready mobile applications** using Flutter while continuously expanding my backend and full-stack development skills.
 
@@ -41,7 +41,7 @@ Long-term, I aspire to pursue an **MS abroad** and contribute to building softwa
 | | |
 |:---|:---|
 | 🎓 **Education** | BS Computer Science — FAST-NUCES, Peshawar |
-| 💼 **Current Role** | Flutter Development Intern @ CEMS |
+| 💼 **Current Role** | Flutter Development Intern @ CEMS (2nd summer, ongoing) |
 | 📱 **Primary Focus** | Flutter & Mobile Application Development |
 | 🌱 **Currently Learning** | FastAPI • React • TypeScript • Supabase |
 | 🏗️ **Current Project** | LiftHub |
@@ -120,10 +120,9 @@ Rather than trying to learn everything, I'm focused on building a strong foundat
 # 🌱 Current Focus
 
 - 📱 Building **LiftHub**, a scalable Flutter-based fitness platform.
-- 🏗️ Learning clean architecture and maintainable software design.
-- ⚡ Developing backend services using FastAPI and Supabase.
-- 📚 Strengthening computer science fundamentals alongside real-world development.
-- 🎯 Preparing a portfolio that supports future graduate studies and software engineering opportunities.
+- 🐔 Rebuilding **Poultry Ledger** as a Flutter app (Flutter version about to begin).
+- 🐧 Exploring different flavours of Linux.
+- 🤖 Learning the fundamentals of Machine Learning.
 
 ---
 
@@ -139,13 +138,13 @@ Rather than trying to learn everything, I'm focused on building a strong foundat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamzaDev391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamzaDev391&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev391&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=HamzaDev391&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -157,10 +156,10 @@ Rather than trying to learn everything, I'm focused on building a strong foundat
 
 | Project | Description | Technologies |
 |:---|:---|:---|
-| **[🏋️ LiftHub](https://github.com/HamzaDev391/LiftHub)** | A scalable gym management application focused on workout tracking, exercise planning, and user progress. | Flutter • PHP • MySQL |
+| **[🏋️ LiftHub](https://github.com/HamzaDev391/LiftHub)** | A scalable gym management application focused on workout tracking, exercise planning, and user progress. | Flutter • Dart *(backend & database — TBD)* |
 | **[🐔 Poultry Ledger](https://github.com/HamzaDev391/poultry-ledger-system)** | A console-based inventory and ledger management system developed for a real family poultry business. | Dart |
 | **[💰 Expense Tracker](https://github.com/HamzaDev391/cpp-expense-tracker)** | Desktop application for tracking personal expenses with an SFML-based graphical interface. | C++ • SFML |
-| **💻 Terminal Portfolio** *(In Development)* | A developer portfolio that recreates the Ubuntu GNOME Terminal experience in the browser. | React • TypeScript • Tailwind CSS |
+| **[💻 Terminal Portfolio](https://github.com/HamzaDev391/portfolio)** *(In Development)* | A developer portfolio that recreates the Ubuntu GNOME Terminal experience in the browser. | React • TypeScript • Tailwind CSS |
 
 ---
 
