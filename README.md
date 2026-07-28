@@ -142,9 +142,7 @@ Rather than trying to learn everything, I'm focused on building a strong foundat
 
 <img height="170" src="https://streak-stats.demolab.com/?user=HamzaDev391&theme=tokyonight&hide_border=true"/>
 
-<br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDev391&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
